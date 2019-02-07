@@ -1,0 +1,30 @@
+[33mcommit 6e0654af405f3919bffe9189764f8e5fe51efece[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Merge: 3f82613 4ff3a1b
+Author: myusername <myemail>
+Date:   Fri Feb 8 00:50:32 2019 +0600
+
+    Merge branch 'master' of https://github.com/Sashakil12/lecture00
+
+[33mcommit 3f826139e718ee8436b178bd71e2af613514b385[m
+Author: myusername <myemail>
+Date:   Fri Feb 8 00:45:18 2019 +0600
+
+    added a third line
+
+[33mcommit 4ff3a1bf15f8bab14434918642088c034de19ec5[m
+Author: Sashakil12 <44579787+Sashakil12@users.noreply.github.com>
+Date:   Fri Feb 8 00:44:51 2019 +0600
+
+    Update hello.html
+
+[33mcommit 192275b787b0301ca99cd9ab44ec2e4ea1d2d5ed[m
+Author: Sashakil12 <44579787+Sashakil12@users.noreply.github.com>
+Date:   Fri Feb 8 00:40:50 2019 +0600
+
+    Update hello.html
+
+[33mcommit d3d15d50f62507305d5c18e3a908ad1ac7e71f42[m
+Author: myusername <myemail>
+Date:   Fri Feb 8 00:30:22 2019 +0600
+
+    First commit blank file
